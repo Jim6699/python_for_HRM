@@ -1,8 +1,8 @@
 <br />
 <p align="center">
-    <img src="https://static.xinrenxinshi.com/official4/pc/page-disease-yggl.png?v=1599218189554" alt="Logo" >
+    <img src="https://static.xinrenxinshi.com/official4/pc/page-disease-yggl.png?v=1599218189554" alt="Logo" width="150" >
   </a>
-  <h2 align="center" style="font-weight: 600">python_for_hrm</h2>
+  <h2 align="center" style="font-weight: 600">Python for Human Resource Management</h2>
   <p align="center">
     人力资源管理中的Python运用--高效率
     <br />
